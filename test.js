@@ -1,4 +1,4 @@
-const { mergeTimeRanges } = require('./NodeJS Module Signature.js');
+const { mergeTimeRanges } = require('./my-module.js');
 
 // Example 1
 const ranges1 = [
